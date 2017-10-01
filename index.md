@@ -17,15 +17,15 @@ Evoluationary Programming, week 2: Stack and Grammar Based Genetic Programming, 
 September 8, 2017:
 Basics related to Genetic Algorithm, Genetic Programming, Evolutionary Programming, related discussions: [Intelligence vs. Evolution](https://groups.google.com/forum/#!topic/pagit/pejoZ7vwNUo), related repositories: [UnitGP](https://github.com/wpower12/UnitGP)
 
-### Publications
+### Technical Reports
  
-[Natural Language Processing by Reasoning and Learning](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-1.pdf)
+1. [Natural Language Processing by Reasoning and Learning](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-1.pdf)
 
-[Non-Axiomatic Reasoning System solving the Facebook AI Research bAbI tasks](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-2.pdf)
+2. [Non-Axiomatic Reasoning System solving the Facebook AI Research bAbI tasks](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-2.pdf)
 
-[Emotions in NARS](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-3.pdf)
+3. [Emotions in NARS](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-3.pdf)
 
-[Understanding as Conceptualizing](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-4.pdf)
+4. [Understanding as Conceptualizing](https://github.com/PhillyAGITeam/Website/blob/master/Papers/PAGI-TR-4.pdf)
 
 ### Links
 
@@ -33,7 +33,7 @@ Basics related to Genetic Algorithm, Genetic Programming, Evolutionary Programmi
 
 [Internal Team Discussion](https://groups.google.com/forum/#!forum/pagit)
 
-### Members
+### Team Members
 
 [Pei Wang](https://cis.temple.edu/~wangp/)
 
